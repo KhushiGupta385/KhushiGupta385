@@ -85,9 +85,9 @@ Welcome to my GitHub profile! I am a passionate B.Tech student who loves learnin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiGupta385&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiGupta385&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta385&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta385&layout=compact&theme=radical)
 
 ---
 
