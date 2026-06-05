@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Khushi Gupta
 
-<!--
-**KhushiGupta385/KhushiGupta385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a B.Tech degree.
 
-Here are some ideas to get you started:
+💻 Currently working on:
+- Python
+- Core Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Completed:
+- Basic Computer Course
+- ADCA (Advanced Diploma in Computer Applications)
+
+🌱 Currently learning and improving my programming skills.
+
+## Skills
+- Python
+- Core Java
+- MS Word
+- MS Excel
+- PowerPoint
+- Internet Applications
+
+## About Me
+- Passionate about technology and software development.
+- Interested in programming and Data Science.
+- Always eager to learn new technologies and build practical projects.
+
+## Goals
+- Enhance my coding and problem-solving skills.
+- Work on real-world projects.
+- Gain internship experience in the tech industry.
+
+---
+⭐ "Learning today, building tomorrow."
