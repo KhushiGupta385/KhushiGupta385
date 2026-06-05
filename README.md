@@ -1,34 +1,120 @@
-# Hi 👋, I'm Khushi Gupta
+# 👋 Hi, I'm Khushi Gupta
 
-🎓 I'm currently pursuing a B.Tech degree.
+### 🎓 B.Tech Student | 💻 Aspiring Software Developer
 
-💻 Currently working on:
+Welcome to my GitHub profile! I am a passionate B.Tech student who loves learning new technologies and building programming skills through projects and problem-solving.
+
+---
+
+## 🚀 About Me
+
+🎓 Pursuing Bachelor of Technology (B.Tech)
+
+💻 Currently working with:
 - Python
 - Core Java
+- C Programming
+- C++
 
 📚 Completed:
 - Basic Computer Course
 - ADCA (Advanced Diploma in Computer Applications)
 
-🌱 Currently learning and improving my programming skills.
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
 
-## Skills
-- Python
-- Core Java
-- MS Word
-- MS Excel
-- PowerPoint
-- Internet Applications
+- ## ⚡ Interests
 
-## About Me
-- Passionate about technology and software development.
-- Interested in programming and Data Science.
-- Always eager to learn new technologies and build practical projects.
-
-## Goals
-- Enhance my coding and problem-solving skills.
-- Work on real-world projects.
-- Gain internship experience in the tech industry.
+- 💻 Software Development
+- 🧩 Problem Solving
+- 📊 Data Analysis
+- 🤖 Data Science
+- 📈 Data Visualization
+- 🚀 Learning New Technologies
+- 🌐 Open Source Contribution
+- 📚 Continuous Learning
 
 ---
-⭐ "Learning today, building tomorrow."
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- Core Java
+- C
+- C++
+
+### Computer Skills
+- MS Word
+- MS Excel
+- MS PowerPoint
+- Internet & Email
+- Computer Fundamentals
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎯 Career Goals
+
+- Become a Skilled Software Developer
+- Master Data Structures and Algorithms
+- Build Real-World Projects
+- Contribute to Open Source
+- Continuously Learn New Technologies
+- Secure a Successful Career in Software Engineering
+
+---
+
+## 📂 Current Focus
+
+🔹 Improving Python Programming Skills
+
+🔹 Strengthening Core Java Concepts
+
+🔹 Practicing DSA Problems
+
+🔹 Building GitHub Portfolio
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiGupta385&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta385&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Soft Skills
+
+✔ Teamwork
+
+✔ Communication
+
+✔ Problem Solving
+
+✔ Quick Learning
+
+✔ Time Management
+
+✔ Adaptability
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn:
+https://linkedin.com/in/khushi-gupta-91b790363
+
+🐱 GitHub:
+https://github.com/KhushiGupta385
+
+---
+
+### ⭐ "Learning, Coding, and Growing Every Day."
